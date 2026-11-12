@@ -1,0 +1,14 @@
+Marque 	Modele 	PrixMin	PrixMax
+Renault	Twingo 	9999 	14999 
+Renault	Clio 	11999 	18999 
+Renault	Mégane 	13999 	22999 
+Renault	Laguna 	18000 	30000 
+Peugeot	108 	9500 	16000 
+Peugeot	208 	11500 	18500 
+Peugeot	308 	14000 	24000 
+Peugeot	408 	19000 	32000 
+VW	Lupo 	9900 	17900 
+VW	Polo 	14000 	21000 
+VW	Golf 	16000 	29000 
+VW	Passat 	22000 	35000 
+ 

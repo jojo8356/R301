@@ -1,0 +1,22 @@
+{
+  "name": "td-php-r301-td5",
+  "version": "1.0.0",
+  "description": "R301 TD5 : sessions PHP, cookies et email (execute avec PHP WebAssembly)",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo8356/TDPHP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojo8356/TDPHP/issues"
+  },
+  "homepage": "https://github.com/jojo8356/TDPHP#readme",
+  "dependencies": {
+    "@php-wasm/node": "^3.1.54"
+  }
+}
